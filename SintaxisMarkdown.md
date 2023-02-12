@@ -4,12 +4,18 @@ davidtinamart emojis.
 🏴‍☠️: 🚭: 🦊: 🤡:
 😄: 👍: 💯:
 
+    TABLAS
+    
+Cabecera1 | Cabecera2
+------------ | -------------
+Celda1 | Celda2
+Celda3 | Celda4
+
     TITULOS
 
 # Texto de tamaño h1
 ## Texto de tamaño h2
 ###### Texto de tamaño h6
-
 
     ÉNFASIS  
 
